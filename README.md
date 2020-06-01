@@ -188,5 +188,5 @@ Contributors
 * [L. Collado-Torres](http://bit.ly/LColladoTorres) - Fixed typos, added links.
 * [Nick Reich](http://people.umass.edu/nick/) - Added tips on storing data as text.
 * [Nick Horton](https://www.amherst.edu/people/facstaff/nhorton) - Minor wording suggestions.
-
+* [Safal Jaiswal] https://www.coursera.org/learn/data-scientists-tools/peer/35IwV/assemble-your-toolbox/submit
 
